@@ -1,0 +1,14 @@
+Future Scope of the Application : 
+
+Scope 1: This application could be made as web application where user have user-friendly UI. User can then click on browse button to select csv file present anywhere in the PC. App then could provide the user, XML output just besides the CSV input and can also allow the user to download the XML file in their system
+ 
+Scope 2: Application could be designed to make reverse conversion too
+i.e. CSV to XML and then XML to CSV
+
+Scope 3: As for this version the Parent tag <Attivio> and Info tag <Information> are by default. It could be made as User defined so that User doesn't have to change those tag
+
+Scope 4: In future, Application could provide the option to ask user to provide CSV data at run time rather then fetching it from the CSV file and then convert to XML instantly (Thought for small CSV data)
+
+Scope 5: For the future version, App could be expanded to convert any file conversion i.e CSV to JSON or JSON to XML or XML to JSON (Module integration)
+
+Scope 6: In the next version, Application could be designed to pick all the CSV file present in the particular directory and convert all of them into XML files and store the file in newly created XML directory (For 1000's of CSV file - App could be Automated)
